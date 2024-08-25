@@ -1,0 +1,8 @@
+{
+  "firstName": "Test",
+  "lastName": "User",
+  "email": "testuser@test.com",
+  "telephone": "1234567890",
+  "password": "testPass",
+  "newsletter": "yes"
+}
