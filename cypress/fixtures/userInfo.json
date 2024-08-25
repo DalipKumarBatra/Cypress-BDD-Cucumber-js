@@ -1,8 +1,8 @@
 {
   "firstName": "Test",
   "lastName": "User",
-  "email": "testuser@test.com",
+  "email": "",
   "telephone": "1234567890",
-  "password": "testPass",
+  "password": "",
   "newsletter": "yes"
 }
